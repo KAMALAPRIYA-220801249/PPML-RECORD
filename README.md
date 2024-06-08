@@ -17,6 +17,6 @@
 
 **8. Logistic Regression**
 
-**9. Linear Regression with Keras:**
+**9. Linear Regression with Keras**
 
-**10. Support Vector Regression (SVR):**
+**10. Support Vector Regression (SVR)**
